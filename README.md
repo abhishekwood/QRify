@@ -84,7 +84,7 @@ Visit the following URL in your browser: 👉 https://www.google.com/search?q=ht
 
 ## 👤 Author
 
-**[Your Name]**
+**[Abhishek Jha {🇮🇳} ]**
 
 * **Github:** [@abhishekwood](https://github.com/abhishekwood)
 * **Telegram:** [LUCY ✨](https://t.me/Fix_the_lucy)
