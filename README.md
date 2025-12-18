@@ -86,7 +86,7 @@ Visit the following URL in your browser: 👉 https://www.google.com/search?q=ht
 
 **[ Lᴜᴄʏ 모 ]**
 
-* **Github:** [@abhishekwood](https://github.com/fix-the-lucy)
+* **Github:** [@fix-the-lucy](https://github.com/fix-the-lucy)
 * **Telegram:** [LUCY ✨](https://t.me/Fix_the_lucy)
   
 ---
